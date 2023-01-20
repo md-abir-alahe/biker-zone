@@ -1,3 +1,7 @@
 .bz-light-red {
     background-color: rgba(255, 0, 0, 0.13);
 }
+
+.bz-btn-danger {
+     background-color: darkkhaki;
+}
